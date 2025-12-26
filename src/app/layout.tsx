@@ -32,9 +32,9 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Create Your QR Codes With QR Koala",
+  title: "Create Your QR Codes With QR Coder",
   description:
-    "Generate QR codes easily with QR Koala. Try our free QR code generator tool now!",
+    "Generate QR codes easily with QR Coder. Try our free QR code generator tool now!",
 };
 
 export default function RootLayout({

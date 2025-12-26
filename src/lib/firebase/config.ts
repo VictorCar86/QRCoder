@@ -6,9 +6,9 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyAzNOrIVImWOKlp94pocS3xpXiy4PmKGi0",
-  authDomain: "qrcode-koala.firebaseapp.com",
-  projectId: "qrcode-koala",
-  storageBucket: "qrcode-koala.firebasestorage.app",
+  authDomain: "qrcode-coder.firebaseapp.com",
+  projectId: "qrcode-coder",
+  storageBucket: "qrcode-coder.firebasestorage.app",
   messagingSenderId: "400250203077",
   appId: "1:400250203077:web:aab74d8dc294b4420f39ac",
   measurementId: "G-FS0N7F2RZK"

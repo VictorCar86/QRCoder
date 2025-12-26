@@ -59,7 +59,7 @@ export default function CleanApplicationPreview({
                 <a
                   className="z-0 group relative inline-flex items-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 min-w-20 text-small gap-2 rounded-sm w-full [&amp;>svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none text-primary-foreground data-[hover=true]:opacity-hover h-14 bg-black px-6 justify-start"
                   role="button"
-                  href="https://www.qrcode-koala.com"
+                  href="https://www.qrcode-coder.com"
                   target="_blank"
                 >
                   <div aria-hidden="true" tabIndex={-1}>
@@ -87,7 +87,7 @@ export default function CleanApplicationPreview({
                   className="z-0 group relative inline-flex items-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 min-w-20 text-small gap-2 rounded-sm w-full [&amp;>svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none text-primary-foreground data-[hover=true]:opacity-hover h-14 bg-black px-6 justify-start"
                   role="button"
                   tabIndex={0}
-                  href="https://www.qrcode-koala.com"
+                  href="https://www.qrcode-coder.com"
                   target="_blank"
                 >
                   <div aria-hidden="true" tabIndex={-1}>
@@ -112,7 +112,7 @@ export default function CleanApplicationPreview({
                 <a
                   className="z-0 group relative inline-flex items-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 min-w-20 text-small gap-2 rounded-sm w-full [&amp;>svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none text-primary-foreground data-[hover=true]:opacity-hover h-14 bg-black px-6 justify-start"
                   role="button"
-                  href="https://www.qrcode-koala.com"
+                  href="https://www.qrcode-coder.com"
                   target="_blank"
                 >
                   <div aria-hidden="true" tabIndex={-1}>

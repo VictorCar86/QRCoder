@@ -8,13 +8,13 @@ export default function GenerateHeader() {
       <div className="container flex h-14 items-center">
         <Link href="/" className="mr-6">
           <Image
-            src="/images/qr_koala_logo.webp"
-            alt="QR Koala Logo"
+            src="/images/qr-coder-icon.webp"
+            alt="QR Coder Logo"
             width={32}
             height={32}
             className="h-8 w-8"
           />
-          <span className="sr-only">QR Koala</span>
+          <span className="sr-only">QR Coder</span>
         </Link>
         <StepsNavigation className="hidden md:flex" />
       </div>

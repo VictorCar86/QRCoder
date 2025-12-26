@@ -9,13 +9,13 @@ export default function MainFooter() {
           <div className="md:col-span-1">
             <div className="flex items-center mb-4">
               <Image
-                className="mr-2"
-                src="/images/qr_koala_logo.webp"
-                alt="QR KOALA"
+                className="mr-2 rounded-sm"
+                src="/images/qr-coder-icon.webp"
+                alt="QR CODER"
                 width={32}
                 height={32}
               />
-              <span className="font-bold text-xl text-extrabold">QR KOALA</span>
+              <span className="font-bold text-xl text-extrabold">QR CODER</span>
             </div>
             <p className="w-full md:w-[70%] text-gray-300 text-sm">
               Powerful, yet simple QR code generator suited to all your QR code needs as a
@@ -109,7 +109,7 @@ export default function MainFooter() {
 
         {/* Copyright */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-white">© 2024 QR Code Koala · All rights reserved</p>
+          <p className="text-white">© 2024 QR Code Coder · All rights reserved</p>
         </div>
       </div>
     </footer>

@@ -173,7 +173,7 @@ export default function AppInformationForm({
           </Label>
           <Input
             id="website"
-            placeholder="E.g. https://qrcode-koala.com"
+            placeholder="E.g. https://qrcode-coder.com"
             value={formData.website}
             onChange={(e) => handleChange("website", e.target.value)}
           />

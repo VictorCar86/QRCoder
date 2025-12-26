@@ -13,12 +13,12 @@ export default function Header({ fixed = false }: { fixed?: boolean }) {
         <Link href="/" className="flex items-center">
           <Image
             className="mr-2"
-            src="/images/qr_koala_logo.webp"
-            alt="QR KOALA"
+            src="/images/qr-coder-icon.webp"
+            alt="QR CODER"
             width={28}
             height={28}
           />
-          <span className="font-black text-xl text-inherit">QR KOALA</span>
+          <span className="font-black text-xl text-inherit">QR CODER</span>
         </Link>
         <div className="flex items-center">
           <Button

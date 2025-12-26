@@ -167,9 +167,9 @@ export function ProductInfoLayout() {
               If you have another question reach out at{" "}
               <a
                 className="text-blue-500 hover:underline"
-                href="mailto:hello@qrcode-koala.com"
+                href="mailto:hello@qrcode-coder.com"
               >
-                hello@qrcode-koala.com
+                hello@qrcode-coder.com
               </a>
             </p>
           </div>

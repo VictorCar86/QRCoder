@@ -56,7 +56,7 @@ export default function CleanVideoPreview(props: VideoPreviewProps) {
                   className="z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap subpixel-antialiased overflow-hidden tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 border-2 px-4 min-w-20 text-small gap-2 rounded-sm w-full [&>svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none bg-transparent border-primary text-primary data-[hover=true]:opacity-hover font-semibold h-12"
                   role="button"
                   tabIndex={0}
-                  href="https://www.qrcode-koala.com"
+                  href="https://www.qrcode-coder.com"
                   target="_blank"
                   style={{
                     color: "black",

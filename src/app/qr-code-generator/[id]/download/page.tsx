@@ -26,8 +26,8 @@ export default function QRDownloadPage() {
           <div className="bg-white rounded-lg shadow-sm p-8">
             <div className="flex justify-center mb-6">
               <Image
-                src="/images/qr_koala_logo.webp"
-                alt="QR Koala Mascot"
+                src="/images/qr-coder-icon.webp"
+                alt="QR Coder Mascot"
                 width={80}
                 height={80}
                 className="w-20 h-20"
@@ -69,7 +69,7 @@ export default function QRDownloadPage() {
                 className="w-full bg-[#4285f4]/10 hover:bg-[#4285f4]/20 text-gray-900"
               >
                 <Image
-                  src="https://www.qrcode-koala.com/svg/socials/google_review.svg"
+                  src="https://www.qrcode-coder.com/svg/socials/google_review.svg"
                   alt="Google Logo"
                   width={20}
                   height={20}

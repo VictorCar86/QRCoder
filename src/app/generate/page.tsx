@@ -5,8 +5,8 @@ import QRGeneratorMenu from "@/components/QRGeneratorMenu";
 import { ProductInfoLayout } from "@/components/ProductInfoLayout";
 
 export const metadata: Metadata = {
-  title: "Generate QR Code - QR Koala",
-  description: "Generate your QR code easily with QR Koala",
+  title: "Generate QR Code - QR Coder",
+  description: "Generate your QR code easily with QR Coder",
 };
 
 export default function GeneratePage() {

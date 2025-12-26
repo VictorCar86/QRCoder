@@ -16,7 +16,7 @@ const WebsitePreview = ({ websiteURL }: { websiteURL?: string }) => {
         <div className="text-xs text-white font-semibold px-2 py-2 border border-white bg-white bg-opacity-30 rounded-full flex items-center gap-2">
           <Globe className="w-6 h-6" />
           <p className="max-w-[150px] truncate">
-            {websiteURL || "https://www.qrcode-koala.com"}
+            {websiteURL || "https://www.qrcode-coder.com"}
           </p>
         </div>
         {/* Website container skeleton */}

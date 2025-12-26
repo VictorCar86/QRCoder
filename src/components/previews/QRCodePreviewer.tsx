@@ -36,8 +36,8 @@ export default function QRCodePreviewer({
         {!children ? (
           <div className="flex flex-col items-center justify-center gap-4 w-full h-full">
             <Image
-              src="/images/qr_koala_logo_XL.webp"
-              alt="QR KOALA"
+              src="/images/qr-coder-icon-XL.webp"
+              alt="QR CODER"
               width={80}
               height={80}
             />
